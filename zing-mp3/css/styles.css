@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    margin: 0;
+    height: 100%;
+    font-family: Lato, sans-serif;
+    color: #231b2e;
+    font-size: 0.9em;
+}
+
+main {
+    flex: 1 0 auto;
+
+    display: flex;
+}
+
+footer {
+    flex: 0 0 90px;
+    padding: 10px;
+    color: #fff;
+    background-color: black;
+}

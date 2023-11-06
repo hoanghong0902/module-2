@@ -1,0 +1,3 @@
+The isHidden() function is a part of File class in Java.
+This function determines whether the is a file or Directory denoted by the abstract filename is Hidden or not.
+The function returns true if the abstract file path is Hidden else return false.
